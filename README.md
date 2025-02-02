@@ -68,6 +68,7 @@ Key aspects of its novelty include:
 
 - Cost-effective and Accessible: By bypassing the need for expensive retinal imaging technologies, EyeSight provides a cost-effective solution that can be used in a variety of settings, particularly in regions with limited healthcare resources.
 
+
 <p align="center">System Model</p>
 
 <p align="center">
