@@ -67,6 +67,8 @@ Key aspects of its novelty include:
 - User-friendly Interface: The interface offers a simple, interactive platform that enables clinicians to easily interpret results. This makes EyeSight highly accessible to healthcare professionals, regardless of their expertise in deep learning or image analysis.
 
 - Cost-effective and Accessible: By bypassing the need for expensive retinal imaging technologies, EyeSight provides a cost-effective solution that can be used in a variety of settings, particularly in regions with limited healthcare resources.
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ffd2756b-6f0f-4a38-a895-06ab01bda470" alt="image>
 </p>
