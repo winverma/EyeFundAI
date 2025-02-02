@@ -34,14 +34,18 @@ Lack of robust systems for real-time and accurate DR severity classification.
 
 
 Data Collection Approaches
+
 Advantages:
 - Non-invasive and real-time measurements.
 - Reduced dependency on specialized equipment and personnel.
+
 Limitations:
 - Sensitivity to environmental factors during data collection.
 - Variability in pupil response across individuals.
+
 Potential Risks:
 - Misclassification due to noise in the data.
+
 Ethical Issues:
 - Ensuring informed consent for data collection.
 - Maintaining patient confidentiality and data security.
