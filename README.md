@@ -1,5 +1,5 @@
-## Capstone-2025
-# An Integrative AI-based Approach for Non-Invasive Diabetic Retinopathy (DR) Detection using Fundus and Pupillometric Images.
+# Capstone-2025
+## An Integrative AI-based Approach for Non-Invasive Diabetic Retinopathy (DR) Detection using Fundus and Pupillometric Images.
 
 -> Diabetic retinopathy (DR) is a leading cause of blindness among diabetic patients, with early stages often going unnoticed due to the lack of symptoms. Traditional diagnostic methods rely heavily on retinal imaging, which can be expensive, time-consuming, and difficult to access in remote areas.
 Moreover, manual interpretation of these images by healthcare professionals can lead to delays in diagnosis and treatment. There is a need for an affordable, non-invasive, and efficient method to detect DR early.
