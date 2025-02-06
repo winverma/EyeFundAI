@@ -36,8 +36,6 @@ Gaps Identified:
 - Lack of robust systems for real-time and accurate DR severity classification.
 
 
-Data Collection Approaches:
-
 Advantages:
 - Non-invasive and real-time measurements.
 - Reduced dependency on specialized equipment and personnel.
