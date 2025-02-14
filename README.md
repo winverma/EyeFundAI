@@ -91,7 +91,7 @@ Key aspects of its novelty include:
 
 ## **🚀 Installation & Usage**  
 ### **🔧 Prerequisites**  
-- MATLAB 2024b+ (Full Commercial Version for MedAI FundAI and Academic Version for Fundus Model) or later with required Add-Ons installed.  
+- MATLAB R2024b+ (Full Commercial Version for MedAI FundAI and Academic Version for Fundus Model) or later with required Add-Ons installed.  
 - Access to medical fundus image datasets.  
 
 ### **📌 Running the Model**  
@@ -100,7 +100,7 @@ Key aspects of its novelty include:
    git clone https://github.com/winverma/EyeFundAI.git  
    cd EyeFundAI
    ```  
-2. Open MATLAB 2024b+ and run the main script:  
+2. Open MATLAB R2024b+ and run the main script:  
    ```matlab  
    run MHR_Admin.m (for MedAI) or FG.m (for Fundus Models)
    ```  
