@@ -3,6 +3,7 @@
 
 #### ***Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learning Toolbox, GhostScript PDF Interpreter.***
 
+
 -> Diabetic retinopathy (DR) is a leading cause of blindness among diabetic patients, with early stages often going unnoticed due to the lack of symptoms. 
 
 With a little bit of research, one can deduce out the limitations prevailing the market:
