@@ -1,7 +1,7 @@
 # Capstone-2025
 ## An Integrative AI-based Approach for Non-Invasive Diabetic Retinopathy (DR) Detection using Fundus and Pupillometric Images.
 
-Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learning Toolbox
+Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learning Toolbox, GhostScript PDF Interpreter
 
 -> Diabetic retinopathy (DR) is a leading cause of blindness among diabetic patients, with early stages often going unnoticed due to the lack of symptoms. Traditional diagnostic methods rely heavily on retinal imaging, which can be expensive, time-consuming, and difficult to access in remote areas.
 
