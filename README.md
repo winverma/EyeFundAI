@@ -74,6 +74,36 @@ Key aspects of its novelty include:
 
 ---
 
+## **📌 Features**  
+
+### **🔬 Fundus Modelling & Computer Vision Analytics**  
+- **Segmentation & Classification:** Using CNN, RNN, and contrast ratio adjustments to enhance fundus images.  
+- **Multiple Iterations of Segmentation:** Improves disease detection accuracy.  
+- **Automated Disease Prediction:** Identifies **Diabetic Retinopathy (DR), Glaucoma, and Cardiovascular Risks**.  
+
+### **👨‍⚕️ Doctor Module**  
+- Secure **Login Authentication** with a unique ID.  
+- **Patient Record Management:** Update, track, and modify patient details.  
+- **Automated PDF Report Generation** with patient details, symptoms, and medical history, including:  
+  - **Personal Details:** Name, Address, DOB, Aadhar Number, Contact, etc.  
+  - **Medical History:** Medications, previous diagnoses, allergies, directives.  
+  - **Symptoms Analysis:**  
+    - **Hyperglycemic Symptoms:** Polyuria, Polydipsia, Blurred Vision.  
+    - **Sympathomimetic Symptoms:** Tremors, Palpitations, Insomnia.  
+    - **Neuroglycogenic Symptoms:** Confusion, Seizures, Amnesia.  
+  - **Vital Signs & Blood Reports:** Height, Weight, BP, Pulse, Blood Test Reports.  
+
+### **👩‍⚕️ Staff Module**  
+- **Fundus Image Processing** with AI-powered segmentation.  
+- **Automated Classification of Retinal Diseases.**  
+- **Contrast Adjustments & Iterative Improvements** for accurate detection.  
+
+### **📊 Analytics Module**  
+- Generates **disease progression graphs** for DR, heart disease, and glaucoma.  
+- Tracks **patient trends** over time using medical records & fundus images.
+
+---
+
 ## **🛠️ Tech Stack**  
 - **Programming Language:** MATLAB  
 - **Machine Learning & AI:** CNN, RNN, Image Segmentation, Computer Vision  
