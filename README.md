@@ -80,6 +80,15 @@ Key aspects of its novelty include:
 
 - Cost-effective and Accessible: By bypassing the need for expensive retinal imaging technologies, EyeSight provides a cost-effective solution that can be used in a variety of settings, particularly in regions with limited healthcare resources.
 
+---
+
+### **📸 Fundus Image Processing Workflow**  
+1. **Image Acquisition:** Load fundus images from medical databases.  
+2. **Preprocessing:** Contrast enhancement, noise reduction and image augmentations for better input quality & segmentations over multiple iterations.  
+3. **Segmentation & Classification:** CNN & RNN Ensemble models classify DR stages or other diseases.  
+4. **Prediction & Visualization:** Disease status graphs & automated reports.
+
+---
 
 <p align="center">System Model</p>
 
