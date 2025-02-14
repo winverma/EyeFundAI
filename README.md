@@ -82,6 +82,28 @@ Key aspects of its novelty include:
 
 ---
 
+## **🛠️ Tech Stack**  
+- **Programming Language:** MATLAB  
+- **Machine Learning & AI:** CNN, RNN, Image Segmentation, Computer Vision  
+- **Data Processing:** MATLAB Image Processing Toolbox  
+- **Authentication & Data Management:** Secure Patient Records  
+
+---
+
+## **📦 Required MATLAB Add-Ons**  
+Before running the project, install the following **MATLAB toolboxes and dependencies:**  
+1. **Image Processing Toolbox** – For fundus image enhancement and segmentation.  
+2. **Statistics and Machine Learning Toolbox** – For AI-based classification and analytics.  
+3. **GhostScript PDF Interpreter** – To generate medical reports in PDF format.  
+
+To install, run the following command in MATLAB:  
+```matlab  
+matlab.addons.install('image-processing-toolbox')
+matlab.addons.install('statistics-and-machine-learning-toolbox')  
+```
+Finally install GhostScript 10.04.0+ (64 Bit) AGPL Release.
+---
+
 ### **📸 Fundus Image Processing Workflow**  
 1. **Image Acquisition:** Load fundus images from medical databases.  
 2. **Preprocessing:** Contrast enhancement, noise reduction and image augmentations for better input quality & segmentations over multiple iterations.  
