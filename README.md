@@ -5,6 +5,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/03f8aef3-8dd6-4587-aa15-3f72d7cf2c95
+
+---
+
 -> Diabetic Retinopathy (DR) is a leading cause of blindness among diabetic patients, with early stages often going unnoticed due to the lack of symptoms. 
 
 With a little bit of research, one can deduce out the limitations prevailing the market:
