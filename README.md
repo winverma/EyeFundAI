@@ -101,7 +101,7 @@ To install, run the following command in MATLAB:
 matlab.addons.install('image-processing-toolbox')
 matlab.addons.install('statistics-and-machine-learning-toolbox')  
 ```
-Finally install GhostScript 10.04.0+ (64 Bit) AGPL Release.
+### ***Finally install GhostScript 10.04.0+ (64 Bit) AGPL Release.***
 ---
 
 ### **📸 Fundus Image Processing Workflow**  
