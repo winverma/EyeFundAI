@@ -17,6 +17,18 @@ Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learni
 
 -> The system analyzes pupil responses to light stimuli combined with advanced deep learning algorithms (ResNet, DenseNet, and EfficientNet) to classify DR into five severity levels. 
 
+## Development Model:
+
+-> Model Components includes Fundus Modelling, Doctor, Staff and Analytics Modules: (using Matlab)
+
+- The Doctor can access the software interface using their unique id and then validate their authentication. Next they can update the patient data from the old one to new one and then generate and updated PDF with the information like: Patient Address, Contact, Sex, DOB, Name, Number, Patient ID, AAdhaar Number, Languages, Prev reference doctor, contact by Phone, Emp status - full time, email, time of visit, home loc hospital, external relative, acquaintance, then come  problems:; Medications:; Directives:; allergies? services due: Office visit, History of patient, symptoms, reson and chief complaint, hyperglycemic symptoms y/n polyuria y/n, polydi[psia y/n, blurred vison y/n then sympathimimetic symptoms, diaphoresis y/n, agitation, y/n, tremor y/n, palpitations y/n, insomnia y/n. nuerogylcogenic symptoms, like confusion y/n, lethargy y/n, somnolence y/n, amnesia y/n, stupor y/n, seizures, y/n, Then comes Review of systems, General, ENT Diagnosis, Cardivascular diagnosis, gastrointestinal, genitourinau=ry,, skin, nurologic, psychiatric, endocrine - polyuria, polydipsia,polyphagia, wiehgt change, cold or heat intolerance, then heme/lymphatics, allergic/immunologics?
+next sec for vital signs like height weight,temp, pulse, rythm, bp: 
+NExt comes the BLood report details...
+
+then the analytics generate them graph for 5 levels of disease either DR or heart or glucome etc.
+
+While the staff can access the fundus images and use them to genrate classified images (Computer Vision Analytics like Segmentations, CNN RNN, Contrast ratio adjustment, multiple iterations of sementations and Computer vision) and then the system will determine the disease using this processed fundus.
+
 This approach aims to provide an early and accessible DR diagnosis solution without traditional retinal imaging. The user-friendly interface, ensures clinicians interpret results efficiently.
 
 
@@ -75,4 +87,37 @@ Key aspects of its novelty include:
   <img src="https://github.com/user-attachments/assets/1cd96a25-a074-4d9e-8b3a-450389870f16" alt="image">
 </p>
 
+## **🚀 Installation & Usage**  
+### **🔧 Prerequisites**  
+- MATLAB 2024b+ (Full Commercial Version for MedAI FundAI and Academic Version for Fundus Model) or later with required Add-Ons installed.  
+- Access to medical fundus image datasets.  
+
+### **📌 Running the Model**  
+1. Clone the repository:  
+   ```sh  
+   git clone https://github.com/winverma/EyeFundAI.git  
+   cd EyeFundAI
+   ```  
+2. Open MATLAB 2024b+ and run the main script:  
+   ```matlab  
+   run MHR_Admin.m (for MedAI) or FG.m (for Fundus Models)
+   ```  
+3. Authenticate as a **Doctor** or **Staff** to access features.  
+
+---
+
+## **📈 Future Enhancements**  
+- Integration with **Cloud Databases** for real-time medical records.  
+- Support for **multi-language interfaces** for accessibility.  
+- Implementation of **Explainable AI (XAI)** to improve transparency in diagnoses.  
+
+---
+
+## **🤝 Contributors**  
+- **[Win Verma](https://github.com/winverma)** – Lead Developer  
+
+---
+
+## **📜 License**  
+This project is licensed under the **Apache License 2.0**.  
 
