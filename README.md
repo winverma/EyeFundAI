@@ -58,7 +58,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 - Maintaining patient confidentiality and data security.
 
 
--> The novelty of the EyeSight system lies in its unique integration of pupillometry and ensemble deep learning models for the non-invasive detection of diabetic retinopathy (DR). Traditional DR detection methods rely heavily on retinal imaging, which is expensive, requires specialized equipment, and is not always accessible in low-resource settings. EyeSight addresses these limitations by using pupil response to light stimuli as a diagnostic tool.
+The novelty of the EyeSight system lies in its unique integration of pupillometry and ensemble deep learning models for the non-invasive detection of diabetic retinopathy (DR). Traditional DR detection methods rely heavily on retinal imaging, which is expensive, requires specialized equipment, and is not always accessible in low-resource settings. EyeSight addresses these limitations by using pupil response to light stimuli as a diagnostic tool.
 
 Key aspects of its novelty include:
 
