@@ -87,7 +87,7 @@ Key aspects of its novelty include:
   <img src="https://github.com/user-attachments/assets/1cd96a25-a074-4d9e-8b3a-450389870f16" alt="image">
 </p>
 
-
+---
 
 ## **🚀 Installation & Usage**  
 ### **🔧 Prerequisites**  
