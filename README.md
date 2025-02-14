@@ -21,10 +21,10 @@ With a little bit of research, one can deduce out the limitations prevailing the
 
 -> The system analyzes pupil responses to light stimuli combined with advanced deep learning algorithms (ResNet, DenseNet, and EfficientNet) to classify DR into five severity levels. While the staff can access the fundus images and use them to generate classified images (Computer Vision Analytics like Segmentations, CNN RNN, Contrast ratio adjustment including multiple iterations of sgementations) and then the system will determine the disease using this processed fundus input.
 
--> This approach aims to provide an early and accessible DR diagnosis solution without traditional retinal imaging. The user-friendly interface, ensures clinicians interpret results efficiently.
+-> This approach aims to provide an early and accessible DR diagnosis solution without traditional retinal imaging, while the user-friendly interface ensures clinicians interpret results efficiently.
 
 
-Themes Discovered:
+### Themes Discovered:
 
 - Increased focus on AI-driven healthcare diagnostics.
 
@@ -33,7 +33,7 @@ Themes Discovered:
 - Growing demand for accessible and cost-effective healthcare solutions.
 
 
-Gaps Identified:
+### Gaps Identified:
 
 - Limited adoption of alternative biomarkers like pupillometry for DR detection.
 
@@ -42,18 +42,18 @@ Gaps Identified:
 - Lack of robust systems for real-time and accurate DR severity classification.
 
 
-Advantages:
+### Advantages:
 - Non-invasive and real-time measurements.
 - Reduced dependency on specialized equipment and personnel.
 
-Limitations:
+### Limitations:
 - Sensitivity to environmental factors during data collection.
 - Variability in pupil response across individuals.
 
-Potential Risks:
+### Potential Risks:
 - Misclassification due to noise in the data.
 
-Ethical Issues:
+### Ethical Issues:
 - Ensuring informed consent for data collection.
 - Maintaining patient confidentiality and data security.
 
