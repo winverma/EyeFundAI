@@ -90,7 +90,7 @@ Key aspects of its novelty include:
 ---
 
 ## **🚀 Installation & Usage**  
-### **🔧 Prerequisites**  
+### **🔧 Prerequisites:**  
 - MATLAB R2024b+ (Full Commercial Version for MedAI FundAI and Academic Version for Fundus Model) or later with required Add-Ons installed.  
 - Access to medical fundus image datasets.  
 
@@ -108,18 +108,18 @@ Key aspects of its novelty include:
 
 ---
 
-## **📈 Future Enhancements**  
+## **📈 Future Enhancements:**  
 - Integration with **Cloud Databases** for real-time medical records.  
 - Support for **multi-language interfaces** for accessibility.  
 - Implementation of **Explainable AI (XAI)** to improve transparency in diagnoses.  
 
 ---
 
-## **🤝 Contributors**  
+## **🤝 Contributor(s):**  
 - **[Win Verma](https://github.com/winverma)** – Lead Developer  
 
 ---
 
-## **📜 License**  
+## **📜 License:**  
 This project is licensed under the **Apache License 2.0**.  
 
