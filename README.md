@@ -120,9 +120,8 @@ Key aspects of its novelty include:
 
 ---
 
-<p align="center">Thank you for scrolling all the way!</p>
-<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-orange?style=for-the-badge" /></a></p>
-
 ## **📜 License:**  
 This project is licensed under the **Apache License 2.0**.  
 
+<p align="center">Thank you for scrolling all the way!</p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-purple?style=for-the-badge" /></a></p>
