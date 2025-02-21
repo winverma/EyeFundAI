@@ -62,19 +62,19 @@ With a little bit of research, one can deduce out the limitations prevailing the
 - Maintaining patient confidentiality and data security.
 
 
-The novelty of the EyeSight system lies in its unique integration of pupillometry and ensemble deep learning models for the non-invasive detection of diabetic retinopathy (DR). Traditional DR detection methods rely heavily on retinal imaging, which is expensive, requires specialized equipment, and is not always accessible in low-resource settings. EyeSight addresses these limitations by using pupil response to light stimuli as a diagnostic tool.
+The novelty of the EyeFund system lies in its unique integration of pupillometry and ensemble deep learning models for the non-invasive detection of diabetic retinopathy (DR). Traditional DR detection methods rely heavily on retinal imaging, which is expensive, requires specialized equipment, and is not always accessible in low-resource settings. EyeFund addresses these limitations by using pupil response to light stimuli as a diagnostic tool.
 
 Key aspects of its novelty include:
 
-- Non-invasive Diagnostic Approach: Unlike conventional retinal imaging, EyeSight utilizes pupillometry—a simple and non-invasive technique—to assess changes in the pupil's response, providing a safe and easily accessible alternative for DR detection.
+- Non-invasive Diagnostic Approach: Unlike conventional retinal imaging, EyeFund utilizes pupillometry—a simple and non-invasive technique—to assess changes in the pupil's response, providing a safe and easily accessible alternative for DR detection.
 
 - Multi-modal Ensemble Learning: Employs an ensemble deep learning architecture that combines the strengths of ResNet, DenseNet, and EfficientNet. This ensemble approach enhances the model's ability to detect subtle variations in pupil response, leading to more accurate DR classification across five distinct severity levels.
 
 - Real-time, Early Detection: The system enables real-time DR diagnosis, allowing for early-stage detection even before clinical symptoms appear. This significantly improves the chances of timely intervention and reduces the risk of blindness.
 
-- User-friendly Interface: The interface offers a simple, interactive platform that enables clinicians to easily interpret results. This makes EyeSight highly accessible to healthcare professionals, regardless of their expertise in deep learning or image analysis.
+- User-friendly Interface: The interface offers a simple, interactive platform that enables clinicians to easily interpret results. This makes EyeFund highly accessible to healthcare professionals, regardless of their expertise in deep learning or image analysis.
 
-- Cost-effective and Accessible: By bypassing the need for expensive retinal imaging technologies, EyeSight provides a cost-effective solution that can be used in a variety of settings, particularly in regions with limited healthcare resources.
+- Cost-effective and Accessible: By bypassing the need for expensive retinal imaging technologies, EyeFund provides a cost-effective solution that can be used in a variety of settings, particularly in regions with limited healthcare resources.
 
 ---
 
