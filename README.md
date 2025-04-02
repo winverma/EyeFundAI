@@ -15,7 +15,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 
 - Traditional diagnostic methods rely heavily on retinal imaging, which can be expensive, time-consuming, and difficult to access in remote areas.
 - Moreover, manual interpretation of these images by healthcare professionals can lead to delays in diagnosis and treatment. 
-- There is a need for an affordable, non-invasive, and efficient method to detect DR early.
+- There is a need for an affordable, non-invasive, and efficient method to detect DR and Glaucoma.
 
 -> The growing prevalence of diabetes has escalated the incidence of DR, especially in underserved and low-resource settings. 
 
@@ -23,7 +23,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 
 -> Advances in artificial intelligence and deep learning have opened avenues for innovative diagnostic tools that leverage alternative biomarkers like pupil response patterns, offering a new perspective on DR detection.
 
--> The system analyzes pupil responses to light stimuli combined with advanced deep learning algorithms (ResNet, DenseNet, and EfficientNet) to classify DR into five severity levels. While the staff can access the fundus images and use them to generate classified images (CV Analytics like Segmentations, CNN/RNN, Contrast Ratio Adjustments including multiple iterations of the Segmentations), the system will determine the disease using this processed fundus input.  Built using ***MATLAB***, the system integrates ***Fundus Modelling, Doctor, Staff, and Analytics Modules*** to enhance medical diagnosis, patient management, and disease prediction.
+-> The system analyzes pupil responses to light stimuli combined with advanced deep learning algorithms (ResNet, DenseNet, and EfficientNet) to classify DR into five severity levels. While the staff can access the fundus images and use them to generate classified images (CV Analytics like Segmentations, combination of CNN (Convolution Neural Network) and FFNN (Feed Forward Neural Network), Contrast Ratio Adjustments through multiple iterations of the Segmentations), the system will determine the disease using this processed fundus input.  Built using ***MATLAB***, the system integrates ***Fundus Modelling, Doctor, Staff, and Analytics Modules*** to enhance medical diagnosis, patient management, and disease prediction.
 
 -> This approach aims to provide an early and accessible DR diagnosis solution without traditional retinal imaging, while the user-friendly interface ensures clinicians interpret results efficiently.
 
