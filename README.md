@@ -1,4 +1,4 @@
-# MedAI - EyeFundAI
+# MedAI (Medical Eye Diagnostics AI) - EyeFundAI 
 ## An Integrative AI-based Approach for Non-Invasive Diabetic Retinopathy (DR) Detection using Fundus and Pupillometric Images.
 
 #### ***Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learning Toolbox, GhostScript PDF Interpreter.***
