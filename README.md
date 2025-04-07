@@ -88,7 +88,7 @@ Key aspects of its novelty include:
 ## **📌 Features**  
 
 ### **🔬 Fundus Modelling & Computer Vision Analytics**  
-- **Segmentation & Classification:** Using CNN, RNN, and contrast ratio adjustments to enhance fundus images.  
+- **Segmentation & Classification:** Using CNN, FFNN, and contrast ratio adjustments to enhance fundus images.  
 - **Multiple Iterations of Segmentation:** Improves disease detection accuracy.  
 - **Automated Disease Prediction:** Identifies **Diabetic Retinopathy (DR), Glaucoma, and Cardiovascular Risks**.  
 
@@ -117,7 +117,7 @@ Key aspects of its novelty include:
 
 ## **🛠️ Tech Stack**  
 - **Programming Language:** MATLAB  
-- **Machine Learning & AI:** CNN, RNN, Image Segmentation, Computer Vision  
+- **Machine Learning & AI:** CNN, FFNN, Image Segmentation, Computer Vision  
 - **Data Processing:** MATLAB Image Processing Toolbox  
 - **Authentication & Data Management:** Secure Patient Records  
 
@@ -140,7 +140,7 @@ matlab.addons.install('statistics-and-machine-learning-toolbox')
 ### **📸 Fundus Image Processing Workflow**  
 1. **Image Acquisition:** Load fundus images from medical databases.  
 2. **Preprocessing:** Contrast enhancement, noise reduction and image augmentations for better input quality & segmentations over multiple iterations.  
-3. **Segmentation & Classification:** CNN & RNN Ensemble models classify DR stages or other diseases.  
+3. **Segmentation & Classification:** CNN & FFNN Ensemble models classify DR stages or other diseases.  
 4. **Prediction & Visualization:** Disease status graphs & automated reports.
 
 <p align="center">System Model</p>
