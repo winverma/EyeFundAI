@@ -22,8 +22,6 @@ function varargout = FG(varargin)
 
 % Edit the above text to modify the response to help FG
 
-% 
-
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
