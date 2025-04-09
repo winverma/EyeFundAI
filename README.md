@@ -118,8 +118,8 @@ Key aspects of its novelty include:
 ## **🛠️ Tech Stack**  
 - **Programming Language:** MATLAB  
 - **Machine Learning & AI:** CNN, FFNN, Image Segmentation, Computer Vision  
-- **Data Processing:** MATLAB Image Processing Toolbox  
-- **Authentication & Data Management:** Secure Patient Records  
+- **Data Processing:** MATLAB Image Processing and Statistics Toolbox  
+- **Authentication & Data Management:** Secure Patient Records - MHR_Admin file (Medical Health Records Administrator)  
 
 ---
 
