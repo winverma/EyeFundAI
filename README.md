@@ -37,7 +37,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33aba5d4-4a1e-431b-a990-5a0e24d9a045" alt="image">
+  <img src="https://github.com/user-attachments/assets/6f3144a3-f982-4353-9f54-67a473c9bc72" alt="image">
   <p align="center">Figure 2: Confidence Distribution Plot for DR Staging</p>
 </p>
 
