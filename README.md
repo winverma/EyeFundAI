@@ -1,5 +1,5 @@
 # MedAI (Medical Eye Diagnostics AI) - EyeFundAI 
-## An Integrative AI-based Approach for Non-Invasive Diabetic Retinopathy (DR) and Glaucoma Detection using Fundus and Pupillometric Images.
+## A Multi-Stage Deep Neural Pipeline Leveraging CNN-FFNN Synergy for High-Fidelity Fundus Image Analysis and Diabetic Retinopathy Grading and Detection.
 
 #### ***Note: Add-Ons Required - Image Processing Toolbox, Statistics and Machine Learning Toolbox, GhostScript PDF Interpreter.***
 
