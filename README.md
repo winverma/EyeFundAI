@@ -144,7 +144,7 @@ matlab.addons.install('statistics-and-machine-learning-toolbox')
 3. **Segmentation & Classification:** CNN & FFNN Ensemble models classify DR stages or other diseases.  
 4. **Prediction & Visualization:** Disease status graphs & automated reports.
 
-<p align="center">System Model</p>
+<p align="center">Figure 2: System Model for Deep Learning and Analytics Pipeline</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1cd96a25-a074-4d9e-8b3a-450389870f16" alt="image">
