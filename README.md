@@ -62,6 +62,13 @@ With a little bit of research, one can deduce out the limitations prevailing the
   <p align="center">Figure 5: Training vs Validation Loss (left); Receiver Operating Characteristic (right)</p>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcbb6a4a-0553-4ca8-96dd-d57d8f6006ba" alt="image">
+  <p align="center">Figure 6: Threshold Tuning Plot (left); Rejection Curve (right)</p>
+</p>
+
 #### Main Highlight: This multi-modal AI-driven diagnostic system integrates Convolutional Neural Networks (CNNs) and Feed Forward Neural Networks (FFNNs) as primary architectures, with Recurrent Neural Networks (RNNs) playing a supporting role. Our approach fuses fundus images and retinal feature data, leveraging Vision Transformers (ViTs) and explainable AI techniques to enhance trust and clinical applicability. The model achieved an AUC-ROC score of 0.96, surpassing ResNet (0.91) and DenseNet (0.92), while maintaining precision, recall, and F1-score above 90% across most DR severity classes. A confidence-based classification approach significantly reduced false negatives by 15% in early-stage DR cases, while ensemble learning provided a 7% accuracy boost over individual CNN models. Cross-validation confirmed the robustness of the model, with a p-value < 0.05, reinforcing statistical significance. Preprocessing techniques such as CLAHE, response normalization, and data augmentation were crucial in enhancing image quality and reducing class imbalance.
 
 
@@ -175,7 +182,7 @@ matlab.addons.install('statistics-and-machine-learning-toolbox')
 3. **Segmentation & Classification:** CNN & FFNN Ensemble models classify DR stages or other diseases.  
 4. **Prediction & Visualization:** Disease status graphs & automated reports.
 
-<p align="center">Figure 3: System Model for Deep Learning and Analytics Pipeline</p>
+<p align="center">Figure 7: System Model for Deep Learning and Analytics Pipeline</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1cd96a25-a074-4d9e-8b3a-450389870f16" alt="image">
