@@ -31,7 +31,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dc74ff0e-c208-47a9-9b0c-5687bba6a94f" alt="image">
-  <p>Architecture Diagram</p>
+  <p align="center">Figure 1: Architecture Diagram</p>
 </p>
 
 #### Main Highlight: This multi-modal AI-driven diagnostic system integrates Convolutional Neural Networks (CNNs) and Feed Forward Neural Networks (FFNNs) as primary architectures, with Recurrent Neural Networks (RNNs) playing a supporting role. Our approach fuses fundus images and retinal feature data, leveraging Vision Transformers (ViTs) and explainable AI techniques to enhance trust and clinical applicability. The model achieved an AUC-ROC score of 0.96, surpassing ResNet (0.91) and DenseNet (0.92), while maintaining precision, recall, and F1-score above 90% across most DR severity classes. A confidence-based classification approach significantly reduced false negatives by 15% in early-stage DR cases, while ensemble learning provided a 7% accuracy boost over individual CNN models. Cross-validation confirmed the robustness of the model, with a p-value < 0.05, reinforcing statistical significance. Preprocessing techniques such as CLAHE, response normalization, and data augmentation were crucial in enhancing image quality and reducing class imbalance.
