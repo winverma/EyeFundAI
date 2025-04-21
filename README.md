@@ -25,7 +25,7 @@ With a little bit of research, one can deduce out the limitations prevailing the
 
 -> The system analyzes pupil responses to light stimuli combined with advanced deep learning algorithms (ResNet, DenseNet, and EfficientNet) to classify DR into five severity levels. While the staff can access the fundus images and use them to generate classified images (CV Analytics like Segmentations, combination of CNN (Convolution Neural Network) and FFNN (Feed Forward Neural Network), Contrast Ratio Adjustments through multiple iterations of the Segmentations), the system will determine the disease using the processed fundus image input real quick.
 
--> Built using ***MATLAB***, the system integrates ***Fundus Modelling, Doctor, Staff, and Analytics Modules*** to enhance medical diagnosis, patient management, and disease prediction.
+-> Built using MATLAB, the system integrates ***Fundus Modelling, Doctor, Staff, and Analytics Modules*** to enhance medical diagnosis, patient management, and disease prediction.
 
 -> This approach aims to provide an early and accessible DR diagnosis solution without traditional retinal imaging, while the user-friendly interface ensures clinicians interpret results efficiently.
 
